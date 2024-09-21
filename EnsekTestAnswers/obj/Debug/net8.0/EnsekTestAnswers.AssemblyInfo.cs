@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EnsekTestAnswers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bde6951471345df3d9e7539aa6935be26631332e")]
 [assembly: System.Reflection.AssemblyProductAttribute("EnsekTestAnswers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EnsekTestAnswers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
