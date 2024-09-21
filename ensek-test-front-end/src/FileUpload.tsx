@@ -50,21 +50,45 @@ const FileUpload = () => {
   };
 
   return (
-    <div>
-      <h1>Upload Meter Readings</h1>
-      <form onSubmit={handleSubmit}>
-        <input type="file" onChange={handleFileChange} />
-        <button type="submit">Upload</button>
+    <div className="flex flex-col items-center justify-center min-h-screen bg-gray-100">
+      <h1 className="text-2xl font-bold mb-4 text-gray-800">
+        Upload Meter Readings
+      </h1>
+      <form
+        onSubmit={handleSubmit}
+        className="w-full max-w-md bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4"
+      >
+        <div className="mb-4">
+          <label
+            className="block text-gray-700 text-sm font-bold mb-2"
+            htmlFor="file-upload"
+          >
+            Choose a file
+          </label>
+          <input
+            id="file-upload"
+            type="file"
+            onChange={handleFileChange}
+            className="block w-full text-sm text-gray-500 file:mr-4 file:py-2 file:px-4 file:rounded-full file:border-0 file:text-sm file:font-semibold file:bg-indigo-50 file:text-indigo-700 hover:file:bg-indigo-100"
+          />
+        </div>
+        <div className="flex items-center justify-between">
+          <button
+            type="submit"
+            className="bg-indigo-500 hover:bg-indigo-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline"
+          >
+            Upload
+          </button>
+        </div>
       </form>
       {message && (
-        <p>
+        <div className="w-full max-w-md bg-gray-50 border border-gray-300 p-4 rounded mt-4 text-gray-700">
           {message.split("\n").map((line, index) => (
-            <React.Fragment key={index}>
+            <p key={index} className="mb-2">
               {line}
-              <br />
-            </React.Fragment>
+            </p>
           ))}
-        </p>
+        </div>
       )}
     </div>
   );
