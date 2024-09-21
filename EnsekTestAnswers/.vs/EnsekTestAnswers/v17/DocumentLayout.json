@@ -139,8 +139,7 @@
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-21T16:49:44.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T16:49:44.428Z"
             },
             {
               "$type": "Document",
@@ -152,8 +151,7 @@
               "RelativeToolTip": "Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T16:21:55.646Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T16:21:55.646Z"
             },
             {
               "$type": "Document",
@@ -165,8 +163,7 @@
               "RelativeToolTip": "Data\\CsvAccountDataSource.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T16:21:47.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T16:21:47.797Z"
             },
             {
               "$type": "Document",
@@ -178,8 +175,7 @@
               "RelativeToolTip": "Data\\IAccountDataSource.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T16:21:45.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T16:21:45.384Z"
             },
             {
               "$type": "Document",
@@ -191,8 +187,7 @@
               "RelativeToolTip": "Data\\Seed.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T16:21:38.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T16:21:38.678Z"
             },
             {
               "$type": "Document",
@@ -204,8 +199,7 @@
               "RelativeToolTip": "Dtos\\MeterReadingDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T16:21:22.345Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T16:21:22.345Z"
             },
             {
               "$type": "Document",
@@ -217,8 +211,7 @@
               "RelativeToolTip": "Models\\Account.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T16:21:11.252Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T16:21:11.252Z"
             },
             {
               "$type": "Document",
@@ -230,8 +223,7 @@
               "RelativeToolTip": "Models\\ImportResult.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T16:21:05.073Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T16:21:05.073Z"
             },
             {
               "$type": "Document",
@@ -256,8 +248,7 @@
               "RelativeToolTip": "Controllers\\MeterReadingUploadsController.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAuwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T16:22:01.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T16:22:01.298Z"
             },
             {
               "$type": "Document",
@@ -269,8 +260,7 @@
               "RelativeToolTip": "Models\\MeterReading.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T16:20:57.611Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T16:20:57.611Z"
             },
             {
               "$type": "Document",
@@ -282,8 +272,7 @@
               "RelativeToolTip": "Repositories\\AccountRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T16:20:53.055Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T16:20:53.055Z"
             },
             {
               "$type": "Document",
@@ -295,8 +284,7 @@
               "RelativeToolTip": "Repositories\\IAccountRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T16:20:49.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T16:20:49.399Z"
             },
             {
               "$type": "Document",
@@ -308,8 +296,7 @@
               "RelativeToolTip": "Repositories\\IMeterReadingRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T16:20:46.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T16:20:46.521Z"
             },
             {
               "$type": "Document",
@@ -321,8 +308,7 @@
               "RelativeToolTip": "Services\\AccountValidationRule.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T16:20:29.839Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T16:20:29.839Z"
             },
             {
               "$type": "Document",
@@ -334,8 +320,7 @@
               "RelativeToolTip": "Services\\DuplicateReadingValidationRule.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T16:20:27.572Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T16:20:27.572Z"
             },
             {
               "$type": "Document",
@@ -347,8 +332,7 @@
               "RelativeToolTip": "Services\\IMeterReadingsUploadService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T16:20:25.765Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T16:20:25.765Z"
             },
             {
               "$type": "Document",
@@ -360,8 +344,7 @@
               "RelativeToolTip": "Services\\IMeterReadingValidationRule.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T16:20:23.337Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T16:20:23.337Z"
             },
             {
               "$type": "Document",
@@ -373,8 +356,7 @@
               "RelativeToolTip": "Services\\IMeterReadingValidatorService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T16:20:20.275Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T16:20:20.275Z"
             },
             {
               "$type": "Document",
@@ -386,8 +368,7 @@
               "RelativeToolTip": "Services\\MeterReadingValidatorService.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAYwBIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T16:19:43.818Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T16:19:43.818Z"
             },
             {
               "$type": "Document",
@@ -399,8 +380,7 @@
               "RelativeToolTip": "Services\\MeterReadingValueValidationRule.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T16:19:35.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T16:19:35.644Z"
             },
             {
               "$type": "Document",
@@ -412,8 +392,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-21T16:19:31.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T16:19:31.612Z"
             },
             {
               "$type": "Document",
@@ -425,8 +404,7 @@
               "RelativeToolTip": "Repositories\\MeterReadingRepository.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAYwAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T15:04:50.598Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T15:04:50.598Z"
             },
             {
               "$type": "Document",
@@ -438,8 +416,7 @@
               "RelativeToolTip": "..\\EnsekTestAnswers.Tests\\Services\\AccountValidationRuleTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T16:19:07.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T16:19:07.529Z"
             },
             {
               "$type": "Document",
@@ -451,8 +428,7 @@
               "RelativeToolTip": "..\\EnsekTestAnswers.Tests\\Services\\DuplicateReadingValidationRuleTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T16:11:37.558Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T16:11:37.558Z"
             },
             {
               "$type": "Document",
@@ -464,8 +440,7 @@
               "RelativeToolTip": "..\\EnsekTestAnswers.Tests\\Controllers\\MeterReadingUploadsControllerTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T16:16:16.458Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T16:16:16.458Z"
             },
             {
               "$type": "Document",
@@ -477,8 +452,7 @@
               "RelativeToolTip": "..\\EnsekTestAnswers.Tests\\Services\\MeterReadingValueValidationRuleTests.cs",
               "ViewState": "AgIAAEwAAAAAAAAAAAAkwA4AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T16:14:21.197Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T16:14:21.197Z"
             },
             {
               "$type": "Document",
@@ -490,8 +464,7 @@
               "RelativeToolTip": "..\\EnsekTestAnswers.Tests\\Services\\MeterReadingValidatorServiceTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T16:12:43.995Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T16:12:43.995Z"
             },
             {
               "$type": "Document",
@@ -503,8 +476,7 @@
               "RelativeToolTip": "Services\\MeterReadingsUploadService.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwD4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T15:48:05.117Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T15:48:05.117Z"
             },
             {
               "$type": "Document",
@@ -516,8 +488,7 @@
               "RelativeToolTip": "..\\EnsekTestAnswers.Tests\\Services\\MeterReadingsUploadServiceTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T15:44:47.249Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T15:44:47.249Z"
             },
             {
               "$type": "Document",
@@ -529,8 +500,7 @@
               "RelativeToolTip": "..\\EnsekTestAnswers.Tests\\EnsekTestAnswers.Tests.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-21T15:25:54.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T15:25:54.037Z"
             }
           ]
         }

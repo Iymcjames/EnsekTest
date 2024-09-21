@@ -23,7 +23,7 @@ const FileUpload = () => {
 
     try {
       const response = await axios.post(
-        "http://localhost:5216/api/meter-reading-uploads",
+        `${process.env.REACT_APP_API_URL}`,
         formData,
         {
           headers: {
@@ -31,7 +31,7 @@ const FileUpload = () => {
           },
         }
       );
-      console.log("response=============", response);
+
       setMessage(
         `${response?.data?.message}
          Processed records: ${response?.data?.processedRecordCount}
