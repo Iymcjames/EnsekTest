@@ -1,0 +1,6 @@
+@EnsekTestAnswers_HostAddress = http://localhost:5216
+
+GET {{EnsekTestAnswers_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "EnsekTestAnswers.Controllers.MeterReadingUploadsController",
+    "Method": "Index",
+    "RelativePath": "api/meter-reading-uploads",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

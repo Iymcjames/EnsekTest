@@ -1,0 +1,523 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB80FBB6-0124-4E33-AC90-1438D8F17F9A}|EnsekTestAnswers.csproj|c:\\users\\lpsch\\source\\repos\\ensektests\\ensektestanswers\\controllers\\meterreadinguploadscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB80FBB6-0124-4E33-AC90-1438D8F17F9A}|EnsekTestAnswers.csproj|solutionrelative:controllers\\meterreadinguploadscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB80FBB6-0124-4E33-AC90-1438D8F17F9A}|EnsekTestAnswers.csproj|c:\\users\\lpsch\\source\\repos\\ensektests\\ensektestanswers\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB80FBB6-0124-4E33-AC90-1438D8F17F9A}|EnsekTestAnswers.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB80FBB6-0124-4E33-AC90-1438D8F17F9A}|EnsekTestAnswers.csproj|c:\\users\\lpsch\\source\\repos\\ensektests\\ensektestanswers\\data\\csvaccountdatasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB80FBB6-0124-4E33-AC90-1438D8F17F9A}|EnsekTestAnswers.csproj|solutionrelative:data\\csvaccountdatasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB80FBB6-0124-4E33-AC90-1438D8F17F9A}|EnsekTestAnswers.csproj|c:\\users\\lpsch\\source\\repos\\ensektests\\ensektestanswers\\data\\iaccountdatasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB80FBB6-0124-4E33-AC90-1438D8F17F9A}|EnsekTestAnswers.csproj|solutionrelative:data\\iaccountdatasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB80FBB6-0124-4E33-AC90-1438D8F17F9A}|EnsekTestAnswers.csproj|c:\\users\\lpsch\\source\\repos\\ensektests\\ensektestanswers\\data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB80FBB6-0124-4E33-AC90-1438D8F17F9A}|EnsekTestAnswers.csproj|solutionrelative:data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB80FBB6-0124-4E33-AC90-1438D8F17F9A}|EnsekTestAnswers.csproj|c:\\users\\lpsch\\source\\repos\\ensektests\\ensektestanswers\\dtos\\meterreadingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB80FBB6-0124-4E33-AC90-1438D8F17F9A}|EnsekTestAnswers.csproj|solutionrelative:dtos\\meterreadingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB80FBB6-0124-4E33-AC90-1438D8F17F9A}|EnsekTestAnswers.csproj|c:\\users\\lpsch\\source\\repos\\ensektests\\ensektestanswers\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB80FBB6-0124-4E33-AC90-1438D8F17F9A}|EnsekTestAnswers.csproj|solutionrelative:models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB80FBB6-0124-4E33-AC90-1438D8F17F9A}|EnsekTestAnswers.csproj|c:\\users\\lpsch\\source\\repos\\ensektests\\ensektestanswers\\models\\importresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB80FBB6-0124-4E33-AC90-1438D8F17F9A}|EnsekTestAnswers.csproj|solutionrelative:models\\importresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB80FBB6-0124-4E33-AC90-1438D8F17F9A}|EnsekTestAnswers.csproj|c:\\users\\lpsch\\source\\repos\\ensektests\\ensektestanswers\\models\\meterreading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB80FBB6-0124-4E33-AC90-1438D8F17F9A}|EnsekTestAnswers.csproj|solutionrelative:models\\meterreading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB80FBB6-0124-4E33-AC90-1438D8F17F9A}|EnsekTestAnswers.csproj|c:\\users\\lpsch\\source\\repos\\ensektests\\ensektestanswers\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB80FBB6-0124-4E33-AC90-1438D8F17F9A}|EnsekTestAnswers.csproj|solutionrelative:repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB80FBB6-0124-4E33-AC90-1438D8F17F9A}|EnsekTestAnswers.csproj|c:\\users\\lpsch\\source\\repos\\ensektests\\ensektestanswers\\repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB80FBB6-0124-4E33-AC90-1438D8F17F9A}|EnsekTestAnswers.csproj|solutionrelative:repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB80FBB6-0124-4E33-AC90-1438D8F17F9A}|EnsekTestAnswers.csproj|c:\\users\\lpsch\\source\\repos\\ensektests\\ensektestanswers\\repositories\\imeterreadingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB80FBB6-0124-4E33-AC90-1438D8F17F9A}|EnsekTestAnswers.csproj|solutionrelative:repositories\\imeterreadingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB80FBB6-0124-4E33-AC90-1438D8F17F9A}|EnsekTestAnswers.csproj|c:\\users\\lpsch\\source\\repos\\ensektests\\ensektestanswers\\repositories\\meterreadingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB80FBB6-0124-4E33-AC90-1438D8F17F9A}|EnsekTestAnswers.csproj|solutionrelative:repositories\\meterreadingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB80FBB6-0124-4E33-AC90-1438D8F17F9A}|EnsekTestAnswers.csproj|c:\\users\\lpsch\\source\\repos\\ensektests\\ensektestanswers\\services\\accountvalidationrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB80FBB6-0124-4E33-AC90-1438D8F17F9A}|EnsekTestAnswers.csproj|solutionrelative:services\\accountvalidationrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB80FBB6-0124-4E33-AC90-1438D8F17F9A}|EnsekTestAnswers.csproj|c:\\users\\lpsch\\source\\repos\\ensektests\\ensektestanswers\\services\\duplicatereadingvalidationrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB80FBB6-0124-4E33-AC90-1438D8F17F9A}|EnsekTestAnswers.csproj|solutionrelative:services\\duplicatereadingvalidationrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB80FBB6-0124-4E33-AC90-1438D8F17F9A}|EnsekTestAnswers.csproj|c:\\users\\lpsch\\source\\repos\\ensektests\\ensektestanswers\\services\\imeterreadingsuploadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB80FBB6-0124-4E33-AC90-1438D8F17F9A}|EnsekTestAnswers.csproj|solutionrelative:services\\imeterreadingsuploadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB80FBB6-0124-4E33-AC90-1438D8F17F9A}|EnsekTestAnswers.csproj|c:\\users\\lpsch\\source\\repos\\ensektests\\ensektestanswers\\services\\imeterreadingvalidationrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB80FBB6-0124-4E33-AC90-1438D8F17F9A}|EnsekTestAnswers.csproj|solutionrelative:services\\imeterreadingvalidationrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB80FBB6-0124-4E33-AC90-1438D8F17F9A}|EnsekTestAnswers.csproj|c:\\users\\lpsch\\source\\repos\\ensektests\\ensektestanswers\\services\\imeterreadingvalidatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB80FBB6-0124-4E33-AC90-1438D8F17F9A}|EnsekTestAnswers.csproj|solutionrelative:services\\imeterreadingvalidatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB80FBB6-0124-4E33-AC90-1438D8F17F9A}|EnsekTestAnswers.csproj|c:\\users\\lpsch\\source\\repos\\ensektests\\ensektestanswers\\services\\meterreadingsuploadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB80FBB6-0124-4E33-AC90-1438D8F17F9A}|EnsekTestAnswers.csproj|solutionrelative:services\\meterreadingsuploadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB80FBB6-0124-4E33-AC90-1438D8F17F9A}|EnsekTestAnswers.csproj|c:\\users\\lpsch\\source\\repos\\ensektests\\ensektestanswers\\services\\meterreadingvalidatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB80FBB6-0124-4E33-AC90-1438D8F17F9A}|EnsekTestAnswers.csproj|solutionrelative:services\\meterreadingvalidatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB80FBB6-0124-4E33-AC90-1438D8F17F9A}|EnsekTestAnswers.csproj|c:\\users\\lpsch\\source\\repos\\ensektests\\ensektestanswers\\services\\meterreadingvaluevalidationrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB80FBB6-0124-4E33-AC90-1438D8F17F9A}|EnsekTestAnswers.csproj|solutionrelative:services\\meterreadingvaluevalidationrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB80FBB6-0124-4E33-AC90-1438D8F17F9A}|EnsekTestAnswers.csproj|c:\\users\\lpsch\\source\\repos\\ensektests\\ensektestanswers\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BB80FBB6-0124-4E33-AC90-1438D8F17F9A}|EnsekTestAnswers.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB80FBB6-0124-4E33-AC90-1438D8F17F9A}|EnsekTestAnswers.csproj|c:\\users\\lpsch\\source\\repos\\ensektests\\ensektestanswers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB80FBB6-0124-4E33-AC90-1438D8F17F9A}|EnsekTestAnswers.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D267796E-82CC-4AC5-B8A4-5C056F84D7DC}|..\\EnsekTestAnswers.Tests\\EnsekTestAnswers.Tests.csproj|c:\\users\\lpsch\\source\\repos\\ensektests\\ensektestanswers.tests\\controllers\\meterreadinguploadscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D267796E-82CC-4AC5-B8A4-5C056F84D7DC}|..\\EnsekTestAnswers.Tests\\EnsekTestAnswers.Tests.csproj|c:\\users\\lpsch\\source\\repos\\ensektests\\ensektestanswers.tests\\services\\accountvalidationruletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D267796E-82CC-4AC5-B8A4-5C056F84D7DC}|..\\EnsekTestAnswers.Tests\\EnsekTestAnswers.Tests.csproj|c:\\users\\lpsch\\source\\repos\\ensektests\\ensektestanswers.tests\\services\\duplicatereadingvalidationruletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D267796E-82CC-4AC5-B8A4-5C056F84D7DC}|..\\EnsekTestAnswers.Tests\\EnsekTestAnswers.Tests.csproj|c:\\users\\lpsch\\source\\repos\\ensektests\\ensektestanswers.tests\\services\\meterreadingsuploadservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D267796E-82CC-4AC5-B8A4-5C056F84D7DC}|..\\EnsekTestAnswers.Tests\\EnsekTestAnswers.Tests.csproj|c:\\users\\lpsch\\source\\repos\\ensektests\\ensektestanswers.tests\\services\\meterreadingvalidatorservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D267796E-82CC-4AC5-B8A4-5C056F84D7DC}|..\\EnsekTestAnswers.Tests\\EnsekTestAnswers.Tests.csproj|c:\\users\\lpsch\\source\\repos\\ensektests\\ensektestanswers.tests\\ensektestanswers.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D267796E-82CC-4AC5-B8A4-5C056F84D7DC}|..\\EnsekTestAnswers.Tests\\EnsekTestAnswers.Tests.csproj|c:\\users\\lpsch\\source\\repos\\ensektests\\ensektestanswers.tests\\services\\meterreadingvaluevalidationruletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MeterReadingUploadsController.cs",
+              "DocumentMoniker": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Controllers\\MeterReadingUploadsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MeterReadingUploadsController.cs",
+              "ToolTip": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Controllers\\MeterReadingUploadsController.cs",
+              "RelativeToolTip": "Controllers\\MeterReadingUploadsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T16:22:01.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T16:21:55.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CsvAccountDataSource.cs",
+              "DocumentMoniker": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Data\\CsvAccountDataSource.cs",
+              "RelativeDocumentMoniker": "Data\\CsvAccountDataSource.cs",
+              "ToolTip": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Data\\CsvAccountDataSource.cs",
+              "RelativeToolTip": "Data\\CsvAccountDataSource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T16:21:47.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAccountDataSource.cs",
+              "DocumentMoniker": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Data\\IAccountDataSource.cs",
+              "RelativeDocumentMoniker": "Data\\IAccountDataSource.cs",
+              "ToolTip": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Data\\IAccountDataSource.cs",
+              "RelativeToolTip": "Data\\IAccountDataSource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T16:21:45.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Seed.cs",
+              "DocumentMoniker": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Data\\Seed.cs",
+              "RelativeDocumentMoniker": "Data\\Seed.cs",
+              "ToolTip": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Data\\Seed.cs",
+              "RelativeToolTip": "Data\\Seed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T16:21:38.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MeterReadingDto.cs",
+              "DocumentMoniker": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Dtos\\MeterReadingDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\MeterReadingDto.cs",
+              "ToolTip": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Dtos\\MeterReadingDto.cs",
+              "RelativeToolTip": "Dtos\\MeterReadingDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T16:21:22.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Models\\Account.cs",
+              "ToolTip": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Models\\Account.cs",
+              "RelativeToolTip": "Models\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T16:21:11.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ImportResult.cs",
+              "DocumentMoniker": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Models\\ImportResult.cs",
+              "RelativeDocumentMoniker": "Models\\ImportResult.cs",
+              "ToolTip": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Models\\ImportResult.cs",
+              "RelativeToolTip": "Models\\ImportResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T16:21:05.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MeterReading.cs",
+              "DocumentMoniker": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Models\\MeterReading.cs",
+              "RelativeDocumentMoniker": "Models\\MeterReading.cs",
+              "ToolTip": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Models\\MeterReading.cs",
+              "RelativeToolTip": "Models\\MeterReading.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T16:20:57.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\AccountRepository.cs",
+              "ToolTip": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Repositories\\AccountRepository.cs",
+              "RelativeToolTip": "Repositories\\AccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T16:20:53.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Repositories\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IAccountRepository.cs",
+              "ToolTip": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Repositories\\IAccountRepository.cs",
+              "RelativeToolTip": "Repositories\\IAccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T16:20:49.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IMeterReadingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Repositories\\IMeterReadingRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IMeterReadingRepository.cs",
+              "ToolTip": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Repositories\\IMeterReadingRepository.cs",
+              "RelativeToolTip": "Repositories\\IMeterReadingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T16:20:46.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AccountValidationRule.cs",
+              "DocumentMoniker": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Services\\AccountValidationRule.cs",
+              "RelativeDocumentMoniker": "Services\\AccountValidationRule.cs",
+              "ToolTip": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Services\\AccountValidationRule.cs",
+              "RelativeToolTip": "Services\\AccountValidationRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T16:20:29.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DuplicateReadingValidationRule.cs",
+              "DocumentMoniker": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Services\\DuplicateReadingValidationRule.cs",
+              "RelativeDocumentMoniker": "Services\\DuplicateReadingValidationRule.cs",
+              "ToolTip": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Services\\DuplicateReadingValidationRule.cs",
+              "RelativeToolTip": "Services\\DuplicateReadingValidationRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T16:20:27.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IMeterReadingsUploadService.cs",
+              "DocumentMoniker": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Services\\IMeterReadingsUploadService.cs",
+              "RelativeDocumentMoniker": "Services\\IMeterReadingsUploadService.cs",
+              "ToolTip": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Services\\IMeterReadingsUploadService.cs",
+              "RelativeToolTip": "Services\\IMeterReadingsUploadService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T16:20:25.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IMeterReadingValidationRule.cs",
+              "DocumentMoniker": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Services\\IMeterReadingValidationRule.cs",
+              "RelativeDocumentMoniker": "Services\\IMeterReadingValidationRule.cs",
+              "ToolTip": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Services\\IMeterReadingValidationRule.cs",
+              "RelativeToolTip": "Services\\IMeterReadingValidationRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T16:20:23.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IMeterReadingValidatorService.cs",
+              "DocumentMoniker": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Services\\IMeterReadingValidatorService.cs",
+              "RelativeDocumentMoniker": "Services\\IMeterReadingValidatorService.cs",
+              "ToolTip": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Services\\IMeterReadingValidatorService.cs",
+              "RelativeToolTip": "Services\\IMeterReadingValidatorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T16:20:20.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MeterReadingValidatorService.cs",
+              "DocumentMoniker": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Services\\MeterReadingValidatorService.cs",
+              "RelativeDocumentMoniker": "Services\\MeterReadingValidatorService.cs",
+              "ToolTip": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Services\\MeterReadingValidatorService.cs",
+              "RelativeToolTip": "Services\\MeterReadingValidatorService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T16:19:43.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MeterReadingValueValidationRule.cs",
+              "DocumentMoniker": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Services\\MeterReadingValueValidationRule.cs",
+              "RelativeDocumentMoniker": "Services\\MeterReadingValueValidationRule.cs",
+              "ToolTip": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Services\\MeterReadingValueValidationRule.cs",
+              "RelativeToolTip": "Services\\MeterReadingValueValidationRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T16:19:35.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-21T16:19:31.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T16:19:17.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MeterReadingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Repositories\\MeterReadingRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\MeterReadingRepository.cs",
+              "ToolTip": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Repositories\\MeterReadingRepository.cs",
+              "RelativeToolTip": "Repositories\\MeterReadingRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T15:04:50.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AccountValidationRuleTests.cs",
+              "DocumentMoniker": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers.Tests\\Services\\AccountValidationRuleTests.cs",
+              "RelativeDocumentMoniker": "..\\EnsekTestAnswers.Tests\\Services\\AccountValidationRuleTests.cs",
+              "ToolTip": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers.Tests\\Services\\AccountValidationRuleTests.cs",
+              "RelativeToolTip": "..\\EnsekTestAnswers.Tests\\Services\\AccountValidationRuleTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T16:19:07.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DuplicateReadingValidationRuleTests.cs",
+              "DocumentMoniker": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers.Tests\\Services\\DuplicateReadingValidationRuleTests.cs",
+              "RelativeDocumentMoniker": "..\\EnsekTestAnswers.Tests\\Services\\DuplicateReadingValidationRuleTests.cs",
+              "ToolTip": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers.Tests\\Services\\DuplicateReadingValidationRuleTests.cs",
+              "RelativeToolTip": "..\\EnsekTestAnswers.Tests\\Services\\DuplicateReadingValidationRuleTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T16:11:37.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MeterReadingUploadsControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers.Tests\\Controllers\\MeterReadingUploadsControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\EnsekTestAnswers.Tests\\Controllers\\MeterReadingUploadsControllerTests.cs",
+              "ToolTip": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers.Tests\\Controllers\\MeterReadingUploadsControllerTests.cs",
+              "RelativeToolTip": "..\\EnsekTestAnswers.Tests\\Controllers\\MeterReadingUploadsControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T16:16:16.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MeterReadingValueValidationRuleTests.cs",
+              "DocumentMoniker": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers.Tests\\Services\\MeterReadingValueValidationRuleTests.cs",
+              "RelativeDocumentMoniker": "..\\EnsekTestAnswers.Tests\\Services\\MeterReadingValueValidationRuleTests.cs",
+              "ToolTip": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers.Tests\\Services\\MeterReadingValueValidationRuleTests.cs",
+              "RelativeToolTip": "..\\EnsekTestAnswers.Tests\\Services\\MeterReadingValueValidationRuleTests.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwA4AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T16:14:21.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MeterReadingValidatorServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers.Tests\\Services\\MeterReadingValidatorServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\EnsekTestAnswers.Tests\\Services\\MeterReadingValidatorServiceTests.cs",
+              "ToolTip": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers.Tests\\Services\\MeterReadingValidatorServiceTests.cs",
+              "RelativeToolTip": "..\\EnsekTestAnswers.Tests\\Services\\MeterReadingValidatorServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T16:12:43.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MeterReadingsUploadService.cs",
+              "DocumentMoniker": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Services\\MeterReadingsUploadService.cs",
+              "RelativeDocumentMoniker": "Services\\MeterReadingsUploadService.cs",
+              "ToolTip": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Services\\MeterReadingsUploadService.cs",
+              "RelativeToolTip": "Services\\MeterReadingsUploadService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wD4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T15:48:05.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MeterReadingsUploadServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers.Tests\\Services\\MeterReadingsUploadServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\EnsekTestAnswers.Tests\\Services\\MeterReadingsUploadServiceTests.cs",
+              "ToolTip": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers.Tests\\Services\\MeterReadingsUploadServiceTests.cs",
+              "RelativeToolTip": "..\\EnsekTestAnswers.Tests\\Services\\MeterReadingsUploadServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T15:44:47.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EnsekTestAnswers.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers.Tests\\EnsekTestAnswers.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\EnsekTestAnswers.Tests\\EnsekTestAnswers.Tests.csproj",
+              "ToolTip": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers.Tests\\EnsekTestAnswers.Tests.csproj",
+              "RelativeToolTip": "..\\EnsekTestAnswers.Tests\\EnsekTestAnswers.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-21T15:25:54.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
