@@ -127,32 +127,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-21T16:49:44.428Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T16:21:55.646Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
@@ -203,6 +179,43 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T16:19:17.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T16:21:55.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-21T16:49:44.428Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Account.cs",
               "DocumentMoniker": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Models\\Account.cs",
@@ -224,19 +237,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-21T16:21:05.073Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\lpsch\\source\\repos\\EnsekTests\\EnsekTestAnswers\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAC8AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T16:19:17.101Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",

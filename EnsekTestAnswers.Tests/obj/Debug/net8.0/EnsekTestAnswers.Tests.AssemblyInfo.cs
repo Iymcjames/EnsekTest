@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EnsekTestAnswers.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+380cfad7dad7c49cddd91aa337bbf0a870e13080")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64408d7813f2442be889c58010b44112582e0f35")]
 [assembly: System.Reflection.AssemblyProductAttribute("EnsekTestAnswers.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EnsekTestAnswers.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

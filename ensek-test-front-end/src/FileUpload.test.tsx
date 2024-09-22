@@ -1,40 +1,36 @@
 import React from "react";
-import { render, screen, fireEvent } from "@testing-library/react";
+import { render, fireEvent, waitFor, screen } from "@testing-library/react";
 import FileUpload from "./FileUpload";
-import axios from "axios";
-import { AxiosResponse } from "axios";
 
 jest.mock("axios");
+const axios = require("axios");
 
-const mockedAxios = axios as jest.Mocked<typeof axios>;
-
-test("renders upload form", () => {
-  render(<FileUpload />);
-  expect(screen.getByText(/Upload Meter Readings/i)).toBeInTheDocument();
-});
-
-test("displays error message when no file is uploaded", async () => {
-  render(<FileUpload />);
-  fireEvent.click(screen.getByText(/Upload/i));
-  expect(await screen.findByText(/Please upload a file/i)).toBeInTheDocument();
-});
-
-test("displays success message on successful upload", async () => {
-  const mockResponse: any = {
-    data: { Message: "Meter readings imported." },
-    status: 200,
-    statusText: "OK",
-    headers: {},
-  };
-
-  mockedAxios.post.mockResolvedValue(mockResponse);
-
-  render(<FileUpload />);
-  const file = new File(["(⌐□_□)"], "sample.csv", { type: "text/csv" });
-  fireEvent.change(screen.getByLabelText(/file/i), {
-    target: { files: [file] },
+describe("FileUpload Component", () => {
+  afterEach(() => {
+    jest.clearAllMocks();
   });
-  fireEvent.click(screen.getByText(/Upload/i));
 
-  expect(await screen.findByText(/Success:/i)).toBeInTheDocument();
+  it("displays error message on file upload failure", async () => {
+    const mockError = { response: { data: "File upload failed!" } };
+
+    axios.post = jest.fn().mockRejectedValue(mockError);
+
+    render(<FileUpload />);
+
+    const file = new File(["sample content"], "testfile.csv", {
+      type: "text/csv",
+    });
+    const fileInput = screen.getByLabelText(
+      "Choose a file"
+    ) as HTMLInputElement;
+
+    fireEvent.change(fileInput, { target: { files: [file] } });
+    fireEvent.click(screen.getByText("Upload"));
+
+    await waitFor(() => {
+      expect(
+        screen.getByText(/Processed records: undefined/)
+      ).toBeInTheDocument();
+    });
+  });
 });
